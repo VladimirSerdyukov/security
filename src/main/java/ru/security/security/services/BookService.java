@@ -5,8 +5,6 @@ import org.springframework.stereotype.Service;
 import ru.security.security.models.Book;
 import ru.security.security.repositories.BookRepository;
 
-import java.util.function.Supplier;
-
 @Service
 public class BookService {
 

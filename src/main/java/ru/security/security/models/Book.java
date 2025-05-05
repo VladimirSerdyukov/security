@@ -1,6 +1,5 @@
 package ru.security.security.models;
 
-import jakarta.annotation.Nullable;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

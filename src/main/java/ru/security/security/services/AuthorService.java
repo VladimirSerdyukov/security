@@ -5,7 +5,6 @@ import ru.security.security.models.Author;
 import ru.security.security.repositories.AuthorRepository;
 
 import java.util.List;
-import java.util.function.Supplier;
 
 @Service
 public class AuthorService {
